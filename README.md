@@ -3,7 +3,7 @@
 We profiled splenocytes from young, old, and chronically stressed old mice with natural microbiota using single-cell RNA sequencing. A comprehensive atlas was built by integrating our dataset with six publicly available datasets. 
 
 ## Data availability 
-NM mice dataset analysed in this study is available in GEO under accession number GSE2406. Additional publicly available datasets were obtained from GEO (GSE132901, GSE155006, GSE179095, and GSE210719), AWS S3 bucket (https://registry.opendata.aws/tabula-muris-senis/), and GSA (CRA004660).
+NM mice dataset analysed in this study is available in GEO under accession number GSE253406. Additional publicly available datasets were obtained from GEO (GSE132901, GSE155006, GSE179095, and GSE210719), AWS S3 bucket (https://registry.opendata.aws/tabula-muris-senis/), and GSA (CRA004660).
 
 ## Directory details
 The dataset-specific folders NM_mice and SPF1-6 contain scripts to import and combine samples into a single Anndata file (combine.py) and to perform quality control (qc.py).
